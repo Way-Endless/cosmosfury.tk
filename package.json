@@ -14,7 +14,6 @@
 "dependencies": {
 "discord.js": "*",
 "express": "*",
-"ejs": "*",
 "body-parser": "*"
 }
 }
