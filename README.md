@@ -1,1 +1,3 @@
-# ![[cosmosfury.tk](./avatar.png)](https://cosmosfury.tk)
+# [cosmosfury.tk](https://cosmosfury.tk)
+------
+<h1>text<!h1>
